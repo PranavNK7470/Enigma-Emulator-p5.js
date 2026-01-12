@@ -1,4 +1,4 @@
-
+<h1>Enigma Machine Emulator in p5 JS</h1>
 This is an emulator for the Enigma machine , made in javascript using the p5 js library.<br><br>
 This particular one emulates a three rotor Enigma machine (Source : https://www.101computing.net/enigma-machine-emulator , https://www.youtube.com/watch?v=sbm2dmkmqgQ&t=631s).<br><br>
 The Enigma machine was a message scrambling machine famously used in WWII by the German Military for encrypting the messages they send.<br><br>
